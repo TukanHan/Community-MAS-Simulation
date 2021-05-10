@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51ce5540f6f901f4287408be13874f45, type: 3}
+  m_Name: Meat hunting
+  m_EditorClassIdentifier: 
+  profession: {fileID: 11400000, guid: ba2026134a3870e45bafcbbcc0eb3278, type: 2}
+  productionName: "Polowanie na mi\u0119so"
+  product:
+    resource: {fileID: 11400000, guid: f0642b8bba56ae340b9c38b5ad013002, type: 2}
+    count: 6
+  time: 10

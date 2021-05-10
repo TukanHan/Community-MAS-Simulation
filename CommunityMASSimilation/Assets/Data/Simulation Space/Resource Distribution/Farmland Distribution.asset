@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48ece68b6160dc9498409f0df262a6eb, type: 3}
+  m_Name: Farmland Distribution
+  m_EditorClassIdentifier: 
+  resource: {fileID: 11400000, guid: 6ec370b3eb944e54db5b31588d32e20a, type: 2}
+  threshold: 0.489
+  noiseMapParameters:
+    octaves: 5
+    frequency: 5.1
+    minPercent: 0.1283575
+    maxPercent: 0.44378412

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 284d3cb55f1703b468f0e109505cf008, type: 3}
+  m_Name: Cheese production
+  m_EditorClassIdentifier: 
+  profession: {fileID: 11400000, guid: 8d016b397c2ba474fafbb15778edb534, type: 2}
+  productionName: Produkcja sera
+  product:
+    resource: {fileID: 11400000, guid: ce0160531131bd24788bc442d72dc49e, type: 2}
+    count: 8
+  time: 8
+  ingredient:
+    resource: {fileID: 11400000, guid: 7d5cdd188285ba94e9d0e5bf82fdba8f, type: 2}
+    count: 6
